@@ -60,7 +60,7 @@
     // Should display close button (using `btnTpl.smallBtn` template) over the content
     // Can be true, false, "auto"
     // If "auto" - will be automatically enabled for "html", "inline" or "ajax" items
-    smallBtn: "auto",
+    smallBtn: true,
 
     // Should display toolbar (buttons at the top)
     // Can be true, false, "auto"
@@ -77,7 +77,7 @@
       "fullScreen",
       //"download",
       //"thumbs",
-      //"close"
+      "close"
     ],
 
     // Detect "idle" time in seconds
@@ -87,7 +87,7 @@
     protect: false,
 
     // Shortcut to make content "modal" - disable keyboard navigtion, hide buttons, etc
-    modal: true,
+    modal: false,
 
     image: {
       // Wait for images to load before displaying
