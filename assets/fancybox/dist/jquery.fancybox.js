@@ -77,7 +77,7 @@
       "fullScreen",
       //"download",
       //"thumbs",
-      "close"
+      //"close"
     ],
 
     // Detect "idle" time in seconds
@@ -335,7 +335,7 @@
     },
 
     // Clicked on the slide
-    clickSlide: "close",
+    clickSlide: false,
 
     // Clicked on the background (backdrop) element;
     // if you have not changed the layout, then most likely you need to use `clickSlide` option
