@@ -42,13 +42,12 @@ disqus:
 about: >
   # About
 
-  This is a personal portfolio of photographer Cai Xiao.
-  The photos are taken from 201x ~ in xxx.
+  This is a personal portfolio of photographer Cai Xiao. The photos are taken from 201x ~ in xxx.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:kxxhmr@gmail.com).
+  You may contact me through my email: kxxhmr(at)gmail.com
 
 #-------------------------------
 # Work Section
@@ -61,6 +60,6 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'envelope', link: 'mailto:#'}
+#- {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

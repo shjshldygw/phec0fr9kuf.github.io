@@ -50,8 +50,8 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-bg {
-    background: rgb(0, 0, 0);
-    opacity: 100;
+    background: #000;
+    opacity: 1;
     transition-duration: inherit;
     transition-property: opacity;
     transition-timing-function: cubic-bezier(.47, 0, .74, .71);
