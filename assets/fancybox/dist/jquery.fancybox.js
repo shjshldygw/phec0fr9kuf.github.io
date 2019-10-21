@@ -40,7 +40,7 @@
     closeExisting: false,
 
     // Enable infinite gallery navigation
-    loop: false,
+    loop: true,
 
     // Horizontal space between slides
     gutter: 50,
@@ -55,7 +55,7 @@
     arrows: true,
 
     // Should display counter at the top left corner
-    infobar: true,
+    infobar: false,
 
     // Should display close button (using `btnTpl.smallBtn` template) over the content
     // Can be true, false, "auto"
@@ -71,13 +71,13 @@
     // Buttons will be created using templates from `btnTpl` option
     // and they will be placed into toolbar (class="fancybox-toolbar"` element)
     buttons: [
-      "zoom",
+      //"zoom",
       //"share",
       "slideShow",
-      //"fullScreen",
+      "fullScreen",
       //"download",
-      "thumbs",
-      "close"
+      //"thumbs",
+      //"close"
     ],
 
     // Detect "idle" time in seconds
@@ -87,7 +87,7 @@
     protect: false,
 
     // Shortcut to make content "modal" - disable keyboard navigtion, hide buttons, etc
-    modal: false,
+    modal: true,
 
     image: {
       // Wait for images to load before displaying
@@ -247,7 +247,7 @@
     // =======================
 
     fullScreen: {
-      autoStart: false
+      autoStart: true
     },
 
     // Set `touch: false` to disable panning/swiping
@@ -331,15 +331,15 @@
 
     // Clicked on the content
     clickContent: function (current, event) {
-      return current.type === "image" ? "zoom" : false;
+      return current.type === "image" ? false : false;
     },
 
     // Clicked on the slide
-    clickSlide: "close",
+    clickSlide: false,
 
     // Clicked on the background (backdrop) element;
     // if you have not changed the layout, then most likely you need to use `clickSlide` option
-    clickOutside: "close",
+    clickOutside: false,
 
     // Same as previous two, but for double click
     dblclickContent: false,
@@ -356,13 +356,13 @@
         return current.type === "image" ? "toggleControls" : false;
       },
       clickSlide: function (current, event) {
-        return current.type === "image" ? "toggleControls" : "close";
+        return current.type === "image" ? "toggleControls" : false;
       },
       dblclickContent: function (current, event) {
-        return current.type === "image" ? "zoom" : false;
+        return current.type === "image" ? false : false;
       },
       dblclickSlide: function (current, event) {
-        return current.type === "image" ? "zoom" : false;
+        return current.type === "image" ? false : false;
       }
     },
 
@@ -815,16 +815,16 @@
             trapFocus: true,
             // Remove buttons
             infobar: 0,
-            toolbar: 0,
+            toolbar: 1,
 
             smallBtn: 0,
 
             // Disable keyboard navigation
-            keyboard: 0,
+            keyboard: 1,
 
             // Disable some modules
-            slideShow: 0,
-            fullScreen: 0,
+            slideShow: 1,
+            fullScreen: 1,
             thumbs: 0,
             touch: 0,
 
