@@ -77,7 +77,7 @@
       "fullScreen",
       //"download",
       //"thumbs",
-      //"close"
+      "close"
     ],
 
     // Detect "idle" time in seconds
@@ -87,7 +87,7 @@
     protect: false,
 
     // Shortcut to make content "modal" - disable keyboard navigtion, hide buttons, etc
-    modal: false,
+    modal: true,
 
     image: {
       // Wait for images to load before displaying
