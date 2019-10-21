@@ -16,6 +16,10 @@ title: 'Project One'
   <a href="https://pic.superbed.cn/item/5dabd04d451253d178084a59.jpg" data-fancybox="images">
     <img src="https://source.unsplash.com/c1JxO-uAZd0/240x160" />
   </a>
+  
+  <a href="https://pic.superbed.cn/item/5dabd04d451253d178084a59.jpg" data-fancybox="images">
+    <img src="https://source.unsplash.com/c1JxO-uAZd0/240x160" />
+  </a>
 
 
 </p>
