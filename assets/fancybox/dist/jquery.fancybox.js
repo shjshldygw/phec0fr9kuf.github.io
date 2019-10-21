@@ -40,7 +40,7 @@
     closeExisting: false,
 
     // Enable infinite gallery navigation
-    loop: false,
+    loop: true,
 
     // Horizontal space between slides
     gutter: 50,
@@ -55,7 +55,7 @@
     arrows: true,
 
     // Should display counter at the top left corner
-    infobar: true,
+    infobar: false,
 
     // Should display close button (using `btnTpl.smallBtn` template) over the content
     // Can be true, false, "auto"
@@ -71,13 +71,13 @@
     // Buttons will be created using templates from `btnTpl` option
     // and they will be placed into toolbar (class="fancybox-toolbar"` element)
     buttons: [
-      "zoom",
+      //"zoom",
       //"share",
       "slideShow",
-      //"fullScreen",
+      "fullScreen",
       //"download",
-      "thumbs",
-      "close"
+      //"thumbs",
+      //"close"
     ],
 
     // Detect "idle" time in seconds
@@ -247,7 +247,7 @@
     // =======================
 
     fullScreen: {
-      autoStart: false
+      autoStart: true
     },
 
     // Set `touch: false` to disable panning/swiping
