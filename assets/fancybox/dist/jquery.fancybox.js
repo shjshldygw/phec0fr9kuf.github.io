@@ -40,7 +40,7 @@
     closeExisting: false,
 
     // Enable infinite gallery navigation
-    loop: true,
+    loop: false,
 
     // Horizontal space between slides
     gutter: 50,
@@ -55,7 +55,7 @@
     arrows: true,
 
     // Should display counter at the top left corner
-    infobar: false,
+    infobar: true,
 
     // Should display close button (using `btnTpl.smallBtn` template) over the content
     // Can be true, false, "auto"
@@ -71,13 +71,13 @@
     // Buttons will be created using templates from `btnTpl` option
     // and they will be placed into toolbar (class="fancybox-toolbar"` element)
     buttons: [
-      //"zoom",
+      "zoom",
       //"share",
       "slideShow",
-      "fullScreen",
+      //"fullScreen",
       //"download",
-      //"thumbs",
-      //"close"
+      "thumbs",
+      "close"
     ],
 
     // Detect "idle" time in seconds
@@ -247,7 +247,7 @@
     // =======================
 
     fullScreen: {
-      autoStart: true
+      autoStart: false
     },
 
     // Set `touch: false` to disable panning/swiping
@@ -331,15 +331,15 @@
 
     // Clicked on the content
     clickContent: function (current, event) {
-      return current.type === "image" ? false : false;
+      return current.type === "image" ? "zoom" : false;
     },
 
     // Clicked on the slide
-    clickSlide: false,
+    clickSlide: "close",
 
     // Clicked on the background (backdrop) element;
     // if you have not changed the layout, then most likely you need to use `clickSlide` option
-    clickOutside: false,
+    clickOutside: "close",
 
     // Same as previous two, but for double click
     dblclickContent: false,
@@ -356,13 +356,13 @@
         return current.type === "image" ? "toggleControls" : false;
       },
       clickSlide: function (current, event) {
-        return current.type === "image" ? "toggleControls" : false;
+        return current.type === "image" ? "toggleControls" : "close";
       },
       dblclickContent: function (current, event) {
-        return current.type === "image" ? false : false;
+        return current.type === "image" ? "zoom" : false;
       },
       dblclickSlide: function (current, event) {
-        return current.type === "image" ? false : false;
+        return current.type === "image" ? "zoom" : false;
       }
     },
 
