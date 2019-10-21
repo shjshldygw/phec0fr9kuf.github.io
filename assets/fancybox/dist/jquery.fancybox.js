@@ -331,7 +331,7 @@
 
     // Clicked on the content
     clickContent: function (current, event) {
-      return current.type === "image" ? "zoom" : false;
+      return current.type === "image" ? false : false;
     },
 
     // Clicked on the slide
