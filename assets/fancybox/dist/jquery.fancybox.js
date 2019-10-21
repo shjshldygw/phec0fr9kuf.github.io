@@ -339,7 +339,7 @@
 
     // Clicked on the background (backdrop) element;
     // if you have not changed the layout, then most likely you need to use `clickSlide` option
-    clickOutside: "close",
+    clickOutside: false,
 
     // Same as previous two, but for double click
     dblclickContent: false,
@@ -356,13 +356,13 @@
         return current.type === "image" ? "toggleControls" : false;
       },
       clickSlide: function (current, event) {
-        return current.type === "image" ? "toggleControls" : "close";
+        return current.type === "image" ? "toggleControls" : false;
       },
       dblclickContent: function (current, event) {
-        return current.type === "image" ? "zoom" : false;
+        return current.type === "image" ? false : false;
       },
       dblclickSlide: function (current, event) {
-        return current.type === "image" ? "zoom" : false;
+        return current.type === "image" ? false : false;
       }
     },
 
