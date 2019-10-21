@@ -40,7 +40,7 @@
     closeExisting: false,
 
     // Enable infinite gallery navigation
-    loop: true,
+    loop: false,
 
     // Horizontal space between slides
     gutter: 50,
@@ -65,7 +65,7 @@
     // Should display toolbar (buttons at the top)
     // Can be true, false, "auto"
     // If "auto" - will be automatically hidden if "smallBtn" is enabled
-    toolbar: false,
+    toolbar: "auto",
 
     // What buttons should appear in the top right corner.
     // Buttons will be created using templates from `btnTpl` option
@@ -81,7 +81,7 @@
     ],
 
     // Detect "idle" time in seconds
-    idleTime: 3,
+    idleTime: 1,
 
     // Disable right-click and use simple image protection for images
     protect: false,
@@ -815,16 +815,16 @@
             trapFocus: true,
             // Remove buttons
             infobar: 0,
-            toolbar: 1,
+            toolbar: 0,
 
             smallBtn: 0,
 
             // Disable keyboard navigation
-            keyboard: 1,
+            keyboard: 0,
 
             // Disable some modules
-            slideShow: 1,
-            fullScreen: 1,
+            slideShow: 0,
+            fullScreen: 0,
             thumbs: 0,
             touch: 0,
 
