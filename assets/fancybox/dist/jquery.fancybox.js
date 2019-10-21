@@ -60,12 +60,12 @@
     // Should display close button (using `btnTpl.smallBtn` template) over the content
     // Can be true, false, "auto"
     // If "auto" - will be automatically enabled for "html", "inline" or "ajax" items
-    smallBtn: true,
+    smallBtn: "auto",
 
     // Should display toolbar (buttons at the top)
     // Can be true, false, "auto"
     // If "auto" - will be automatically hidden if "smallBtn" is enabled
-    toolbar: "auto",
+    toolbar: false,
 
     // What buttons should appear in the top right corner.
     // Buttons will be created using templates from `btnTpl` option
