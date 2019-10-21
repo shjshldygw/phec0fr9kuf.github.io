@@ -81,7 +81,7 @@
     ],
 
     // Detect "idle" time in seconds
-    idleTime: 1,
+    idleTime: 3,
 
     // Disable right-click and use simple image protection for images
     protect: false,
@@ -247,12 +247,12 @@
     // =======================
 
     fullScreen: {
-      autoStart: true
+      autoStart: false
     },
 
     // Set `touch: false` to disable panning/swiping
     touch: {
-      vertical: true, // Allow to drag content vertically
+      vertical: false, // Allow to drag content vertically
       momentum: true // Continue movement after releasing mouse/touch when panning
     },
 
