@@ -53,8 +53,8 @@ contact: >
 # Work Section
 
 projects:
-- {name: '?Ri3r', folder: 'cha_0001', file: 'projects/cha_0001.html'}
-- {name: 'Br#1H', folder: 'cha_0002', file: 'projects/cha_0002.html'}
+- {name: '?Ri3r', folder: 'cha_0001', file: 'projects/cha_0001.html#images-1'}
+- {name: 'Br#1H', folder: 'cha_0002', file: 'projects/cha_0002.html#images-1'}
 
 #-------------------------------
 # Contact Section
