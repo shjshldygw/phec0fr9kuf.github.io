@@ -70,6 +70,8 @@ contact: >
 
 projects:
 
+- {name: 'view', folder: 'cx0008', file: 'cx/cx0008.html#images-1'}
+
 - {name: 'view', folder: 'cx0007', file: 'cx/cx0007.html#images-1'}
 
 - {name: 'view', folder: 'cx0006', file: 'cx/cx0006.html#images-1'}
