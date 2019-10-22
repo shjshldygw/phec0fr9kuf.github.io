@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'Works', url: ''}
-#- {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+- {name: 'works', url: ''}
+#- {name: 'blog', url: 'pages/blog.html'}
+- {name: 'about', url: 'pages/about.html'}
+- {name: 'contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -40,14 +40,14 @@ disqus:
 # About Section
 
 about: >
-  # About
+  # about
 
-  This is a personal portfolio of photographer Cai Xiao. The photos are taken from 201x ~ in xxx.
+  This is a personal portfolio of photographer Cai Xiao.
 
 contact: >
-  # Contact
+  # contact
 
-  You may contact me through my email: kxxhmr(at)gmail.com
+  email: kxxhmr(at)gmail.com instagram: s_aigyou
 
 
 
@@ -70,6 +70,11 @@ contact: >
 
 projects:
 
+- {name: 'view', folder: 'cx0007', file: 'cx/cx0007.html#images-1'}
+
+- {name: 'view', folder: 'cx0006', file: 'cx/cx0006.html#images-1'}
+
+- {name: 'view', folder: 'cx0005', file: 'cx/cx0005.html#images-1'}
 
 - {name: 'view', folder: 'cx0004', file: 'cx/cx0004.html#images-1'}
 
