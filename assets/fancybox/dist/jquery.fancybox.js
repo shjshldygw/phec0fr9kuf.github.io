@@ -5268,7 +5268,7 @@
       if (Thumbs && Thumbs.isActive && keycode === 71) {
         keypress.preventDefault();
 
-        //Thumbs.toggle();
+        Thumbs.toggle();
       }
     },
 
