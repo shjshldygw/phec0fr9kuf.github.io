@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: '333works', url: ''}
+- {name: 'works', url: ''}
 #- {name: 'blog', url: 'pages/blog.html'}
 - {name: 'about', url: 'pages/about.html'}
 - {name: 'contact', url: 'pages/contact.html'}
@@ -71,19 +71,19 @@ contact: >
 projects:
 
 
-- {name: 'view', folder: 'cx0007', file: 'cx/cx0007.html'}
+- {name: '0007', folder: 'cx0007', file: 'cx/cx0007.html'}
 
-- {name: 'view', folder: 'cx0006', file: 'cx/cx0006.html'}
+- {name: '0006', folder: 'cx0006', file: 'cx/cx0006.html'}
 
-- {name: 'view', folder: 'cx0005', file: 'cx/cx0005.html'}
+- {name: '0005', folder: 'cx0005', file: 'cx/cx0005.html'}
 
-- {name: 'view', folder: 'cx0004', file: 'cx/cx0004.html'}
+- {name: '0004', folder: 'cx0004', file: 'cx/cx0004.html'}
 
-- {name: 'view', folder: 'cx0003', file: 'cx/cx0003.html'}
+- {name: '0003', folder: 'cx0003', file: 'cx/cx0003.html'}
 
-- {name: 'view', folder: 'cx0002', file: 'cx/cx0002.html'}
+- {name: '0002', folder: 'cx0002', file: 'cx/cx0002.html'}
 
-- {name: 'view', folder: 'cx0001', file: 'cx/cx0001.html'}
+- {name: '0001', folder: 'cx0001', file: 'cx/cx0001.html'}
 
 
 
