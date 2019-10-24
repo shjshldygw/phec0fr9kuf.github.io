@@ -50,7 +50,7 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-bg {
-    background: #000;
+    background: #7F7F7F;
     opacity: 1;
     transition-duration: inherit;
     transition-property: opacity;
@@ -121,6 +121,7 @@ body.compensate-for-scrollbar {
 .fancybox-slide {
     -webkit-backface-visibility: hidden;
     /* Using without prefix would break IE11 */
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     display: none;
     height: 100%;
     left: 0;
