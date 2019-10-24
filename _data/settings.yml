@@ -81,9 +81,9 @@ projects:
 
 - {name: '0003', folder: 'cx0003', file: 'cx/cx0003.html'}
 
-- {name: '0002', folder: 'cx0002', file: 'cx/cx0002.html'}
+- {name: '二', folder: 'cx0002', file: 'cx/cx0002.html'}
 
-- {name: '0001', folder: 'cx0001', file: 'cx/cx0001.html'}
+- {name: '一', folder: 'cx0001', file: 'cx/cx0001.html'}
 
 
 
