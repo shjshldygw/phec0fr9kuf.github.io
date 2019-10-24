@@ -147,7 +147,7 @@
     //   "fade"
     //   "zoom-in-out"
     //
-    animationEffect: "fade",
+    animationEffect: "zoom-in-out",
 
     // Duration in ms for open/close animation
     animationDuration: 366,

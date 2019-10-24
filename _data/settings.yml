@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'eeeworks', url: ''}
+- {name: 'fffworks', url: ''}
 #- {name: 'blog', url: 'pages/blog.html'}
 - {name: 'about', url: 'pages/about.html'}
 - {name: 'contact', url: 'pages/contact.html'}
