@@ -3001,7 +3001,7 @@
 
 		  .attr({
 			href: (current.opts.image.src || current.src),
-			target: "_blank",
+			//target: "_blank",
 			download: 
 				function () {
 					var str = (current.opts.image.src || current.src);
