@@ -966,6 +966,7 @@
           self.previous();
 		  
 		  self.hideControls();
+		  self.isIdle = true;
 
           return;
         }
@@ -977,6 +978,7 @@
           self.next();
 		  
 		  self.hideControls();
+		  self.isIdle = true;
 
           return;
         }
