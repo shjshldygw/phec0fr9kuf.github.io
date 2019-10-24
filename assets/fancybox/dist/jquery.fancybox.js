@@ -985,7 +985,7 @@
         self.idleSecondsCounter = 0;
 
         $D.on(
-          "mousemove.fb-idle mouseleave.fb-idle mousedown.fb-idle touchstart.fb-idle touchmove.fb-idle scroll.fb-idle keydown.fb-idle",
+          "mousemove.fb-idle mouseleave.fb-idle mousedown.fb-idle touchstart.fb-idle touchmove.fb-idle scroll.fb-idle",
           function (e) {
             self.idleSecondsCounter = 0;
 
