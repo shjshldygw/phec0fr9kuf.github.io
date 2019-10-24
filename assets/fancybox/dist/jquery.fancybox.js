@@ -247,7 +247,7 @@
     // =======================
 
     fullScreen: {
-      autoStart: false
+      autoStart: true
     },
 
     // Set `touch: false` to disable panning/swiping
