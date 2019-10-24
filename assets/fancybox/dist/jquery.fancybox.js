@@ -964,6 +964,8 @@
           e.preventDefault();
 
           self.previous();
+		  
+		  self.hideControls();
 
           return;
         }
@@ -974,7 +976,7 @@
 
           self.next();
 		  
-		  //self.hideControls();
+		  self.hideControls();
 
           return;
         }
@@ -1002,7 +1004,7 @@
         self.idleInterval = window.setInterval(function () {
           self.idleSecondsCounter++;
 
-          if (self.idleSecondsCounter >= self.group[self.currIndex].opts.idleTime) {
+          if (self.idleSecondsCounter >= self.group[self.currIndex].opts.idleTime && !self.isDragging) {
             self.isIdle = true;
             self.idleSecondsCounter = 0;
 
