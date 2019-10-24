@@ -3004,7 +3004,7 @@
 			download: 
 				function () {
 					var str = (current.opts.image.src || current.src);
-					return str.replace( /\/([a-zA-Z0-9]+)\.(jpeg|jpg)/, "$1\.$2" );
+					return str.replace( /.*\/([a-zA-Z0-9]+)\.(jpeg|jpg)/, "$1\.$2" );
 				}
 		  })
 		  
