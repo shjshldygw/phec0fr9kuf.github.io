@@ -2997,7 +2997,19 @@
           .show()
           .end()
           .find("[data-fancybox-download]")
-          .attr("href", current.opts.image.src || current.src)
+
+
+		  .attr({
+			href: (current.opts.image.src || current.src),
+			download: 
+				function () {
+					var str = (current.opts.image.src || current.src);
+					return str.replace( /\/([a-zA-Z0-9]+)\.(jpeg|jpg)/, "$1\.$2" );
+				}
+		  })
+		  
+		  
+		  
           .show();
       } else if (current.opts.toolbar) {
         $container.find("[data-fancybox-download],[data-fancybox-zoom]").hide();
