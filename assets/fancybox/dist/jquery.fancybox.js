@@ -989,9 +989,9 @@
           function (e) {
             self.idleSecondsCounter = 0;
 
-            if (self.isIdle) {
-              self.showControls();
-            }
+ //           if (self.isIdle) {
+//              self.showControls();
+//            }
 
             self.isIdle = false;
           }
