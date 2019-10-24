@@ -75,7 +75,7 @@
       //"share",
       "slideShow",
       "fullScreen",
-      //"download",
+      "download",
       //"thumbs",
       "close"
     ],
@@ -84,7 +84,7 @@
     idleTime: 3,
 
     // Disable right-click and use simple image protection for images
-    protect: false,
+    protect: true,
 
     // Shortcut to make content "modal" - disable keyboard navigtion, hide buttons, etc
     modal: false,
@@ -147,7 +147,7 @@
     //   "fade"
     //   "zoom-in-out"
     //
-    animationEffect: "zoom",
+    animationEffect: "fade",
 
     // Duration in ms for open/close animation
     animationDuration: 366,
@@ -4951,7 +4951,7 @@
           "</button>"
       },
       fullScreen: {
-        autoStart: false
+        autoStart: true
       }
     });
 
@@ -5268,7 +5268,7 @@
       if (Thumbs && Thumbs.isActive && keycode === 71) {
         keypress.preventDefault();
 
-        Thumbs.toggle();
+        //Thumbs.toggle();
       }
     },
 
