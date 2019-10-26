@@ -55,16 +55,6 @@ contact: >
 
 
 
-
-
-
-
-
-
-
-
-
-
 #-------------------------------
 # Work Section
 
@@ -85,24 +75,6 @@ projects:
 - {name: '二', folder: 'cx0002', file: 'cx/cx0002.html', cover: 'https://pic.superbed.cn/item/5dadcb308b58bc7bf7702f0b.jpg'}
 
 - {name: '一', folder: 'cx0001', file: 'cx/cx0001.html', cover: 'https://pic.superbed.cn/item/5dabd04d451253d178084a54.jpg'}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
