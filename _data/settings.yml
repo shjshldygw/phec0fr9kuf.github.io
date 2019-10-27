@@ -61,7 +61,7 @@ contact: >
 
 projects:
 
-- {name: '颜色奇怪的风景', folder: 'cx0001', file: 'works/cx0001.html', cover: 'https://pic.superbed.cn/item/5dabd04d451253d178084a54.jpg'}
+- {name: '颜色奇怪的风景', folder: '0001', file: 'works/0001.html', cover: 'https://pic.superbed.cn/item/5dabd04d451253d178084a54.jpg'}
 
 
 
