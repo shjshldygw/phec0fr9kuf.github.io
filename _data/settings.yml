@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'works', url: ''}
+#- {name: 'works', url: ''}
 #- {name: 'blog', url: 'pages/blog.html'}
 - {name: 'about', url: 'pages/about.html'}
-- {name: 'contact', url: 'pages/contact.html'}
+#- {name: 'contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -42,12 +42,15 @@ disqus:
 about: >
   # about
 
-  this is a personal portfolio of photographer cai xiao
+一：Shanghai, Beijing, Changchun, Shenyang
+<br>
+email: kxxhmr(at)gmail.com instagram: s_aigyou
+  
 
-contact: >
+#contact: >
   # contact
 
-  email: kxxhmr(at)gmail.com instagram: s_aigyou
+  
 
 
 
@@ -59,20 +62,6 @@ contact: >
 # Work Section
 
 projects:
-
-- {name: '八', folder: 'cx0008', file: 'cx/cx0008.html', cover: 'https://pic.superbed.cn/item/5db20785b53fca226b960a10.jpg'}
-
-- {name: '七', folder: 'cx0007', file: 'cx/cx0007.html', cover: 'https://pic.superbed.cn/item/5db1fd7020cacbf0210ff463.jpg'}
-
-- {name: '六', folder: 'cx0006', file: 'cx/cx0006.html', cover: 'https://pic.superbed.cn/item/5db129e58b58bc7bf7ddec0d.jpg'}
-
-- {name: '五', folder: 'cx0005', file: 'cx/cx0005.html', cover: 'https://pic.superbed.cn/item/5daef67e8b58bc7bf7b65713.jpg'}
-
-- {name: '四', folder: 'cx0004', file: 'cx/cx0004.html', cover: 'https://pic.superbed.cn/item/5dadce678b58bc7bf770c4bd.jpg'}
-
-- {name: '三', folder: 'cx0003', file: 'cx/cx0003.html', cover: 'https://pic.superbed.cn/item/5dabd09b451253d178085867.jpg'}
-
-- {name: '二', folder: 'cx0002', file: 'cx/cx0002.html', cover: 'https://pic.superbed.cn/item/5dadcb308b58bc7bf7702f0b.jpg'}
 
 - {name: '一', folder: 'cx0001', file: 'cx/cx0001.html', cover: 'https://pic.superbed.cn/item/5dabd04d451253d178084a54.jpg'}
 
