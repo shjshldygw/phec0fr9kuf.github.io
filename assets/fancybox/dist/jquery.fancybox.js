@@ -4685,9 +4685,9 @@
         "</button>"
     },
     slideShow: {
-      autoStart: false,
+      autoStart: true,
       speed: 3000,
-      progress: true
+      progress: false
     }
   });
 
