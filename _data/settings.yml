@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'home', url: ''}
+- {name: 'works', url: ''}
 #- {name: 'blog', url: 'pages/blog.html'}
 - {name: 'about', url: 'pages/about.html'}
-#- {name: 'contact', url: 'pages/contact.html'}
+- {name: 'contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -40,12 +40,12 @@ disqus:
 # About Section
 
 about: >
-
+  #about
 
 
   
 
-#contact: >
+contact: >
   # contact
 
   
