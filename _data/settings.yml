@@ -61,7 +61,11 @@ contact: >
 
 projects:
 
+
+- {name: '各種各樣的綠色（一）', folder: '0002', file: 'works/0002.html', cover: 'https://pic2.superbed.cn/item/5dd3b2148e0e2e3ee9234489.jpg'}
+
 - {name: '颜色奇怪的风景', folder: '0001', file: 'works/0001.html', cover: 'https://pic.superbed.cn/item/5db6d3cd8b58bc7bf70b6064.jpg'}
+
 
 
 
