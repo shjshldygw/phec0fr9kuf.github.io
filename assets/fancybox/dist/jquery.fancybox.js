@@ -275,7 +275,7 @@
 
     slideShow: {
       autoStart: true,
-      speed: 4000
+      speed: 6000
     },
 
     thumbs: {
@@ -4686,7 +4686,7 @@
     },
     slideShow: {
       autoStart: true,
-      speed: 4000,
+      speed: 6000,
       progress: false
     }
   });
