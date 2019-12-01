@@ -4686,7 +4686,7 @@
     },
     slideShow: {
       autoStart: true,
-      speed: 3000,
+      speed: 4000,
       progress: false
     }
   });
