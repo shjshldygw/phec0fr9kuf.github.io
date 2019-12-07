@@ -6,8 +6,8 @@ title: ''
 <p class="imglist">
 
 <div class="image-container">
-  <a href="【封面圖】"  data-fancybox="images">
-    <img src="【第一張圖】" alt="Avatar" class="image" />
+  <a href="【第一張圖】"  data-fancybox="images">
+    <img src="【封面圖】" alt="Avatar" class="image" />
     <div class="overlay">
       <div class="text">
         
