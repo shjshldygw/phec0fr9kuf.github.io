@@ -61,11 +61,11 @@ contact: >
 
 projects:
 
-- {name: '有颜色的风景・这个城市的风景', folder: '0005', file: 'works/0005.html', cover: 'https://pic3.superbed.cn/item/5df224431f8f59f4d69fef34.jpg'}
+- {name: '有颜色的风景', folder: '0005', file: 'works/0005.html', cover: 'https://pic3.superbed.cn/item/5df224431f8f59f4d69fef34.jpg'}
 
 - {name: '各种各样的绿色', folder: '0004', file: 'works/0004.html', cover: 'https://pic1.superbed.cn/item/5debcd08f1f6f81c50561dc7.jpg'}
 
-- {name: '有颜色的风景・这个城市的风景', folder: '0003', file: 'works/0003.html', cover: 'https://pic3.superbed.cn/item/5de252318e0e2e3ee93f505d.jpg'}
+- {name: '有颜色的风景', folder: '0003', file: 'works/0003.html', cover: 'https://pic3.superbed.cn/item/5de252318e0e2e3ee93f505d.jpg'}
 
 - {name: '各种各样的绿色', folder: '0002', file: 'works/0002.html', cover: 'https://pic2.superbed.cn/item/5dd3b2208e0e2e3ee92350f2.jpg'}
 
