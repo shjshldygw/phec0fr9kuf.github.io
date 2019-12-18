@@ -61,6 +61,8 @@ contact: >
 
 projects:
 
+- {name: '在鹤岗的最后一个夏天', folder: '0006', file: 'works/0006.html', cover: 'https://pic2.superbed.cn/item/5df9a5d076085c32898322ad.jpg'}
+
 - {name: '有颜色的风景', folder: '0005', file: 'works/0005.html', cover: 'https://pic3.superbed.cn/item/5df224431f8f59f4d69fef34.jpg'}
 
 - {name: '各种各样的绿色', folder: '0004', file: 'works/0004.html', cover: 'https://pic1.superbed.cn/item/5debcd08f1f6f81c50561dc7.jpg'}
