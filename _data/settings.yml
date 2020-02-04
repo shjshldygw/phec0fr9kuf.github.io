@@ -61,6 +61,8 @@ contact: >
 
 projects:
 
+- {name: '有颜色的风景・五', folder: '0009', file: 'works/0011.html', cover: 'https://pic.imgdb.cn/item/5e39624b2fb38b8c3ca79ea4.jpg'}
+
 - {name: '自选集', folder: '0010', file: 'works/0010.html', cover: 'https://pic.superbed.cn/item/5e32778d2fb38b8c3cfad94c.jpg'}
 
 - {name: '有颜色的风景・四', folder: '0009', file: 'works/0009.html', cover: 'https://pic.superbed.cn/item/5e36715e2fb38b8c3c5acf0b.jpg'}
