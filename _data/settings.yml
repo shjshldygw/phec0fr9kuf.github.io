@@ -61,7 +61,9 @@ contact: >
 
 projects:
 
-- {name: '雪的', folder: '0009', file: 'works/0011.html', cover: 'https://pic.imgdb.cn/item/5e39624b2fb38b8c3ca79ea4.jpg'}
+- {name: '牙克石的诗', folder: '0012', file: 'works/0012.html', cover: 'https://pic.imgdb.cn/item/5e53cba46127cc07137d94c4.jpg'}
+
+- {name: '雪的', folder: '0011', file: 'works/0011.html', cover: 'https://pic.imgdb.cn/item/5e39624b2fb38b8c3ca79ea4.jpg'}
 
 - {name: '自选集', folder: '0010', file: 'works/0010.html', cover: 'https://pic.superbed.cn/item/5e32778d2fb38b8c3cfad94c.jpg'}
 
