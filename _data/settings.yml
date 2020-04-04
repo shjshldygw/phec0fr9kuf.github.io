@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-- {name: 'works', url: ''}
-- {name: 'texts', url: 'pages/texts.html'}
+# - {name: 'works', url: ''}
+- {name: 'works', url: 'pages/works.html'}
 - {name: 'about', url: 'pages/about.html'}
 - {name: 'contact', url: 'pages/contact.html'}
 
@@ -13,7 +13,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Personal portfolio of photographer CAI Xiao'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
