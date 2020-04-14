@@ -81,27 +81,29 @@ projects:
 
 - {name: '自选集', folder: '0010', file: 'works/0010.html', cover: 'https://pic.superbed.cn/item/5e32778d2fb38b8c3cfad94c.jpg'}
 
-- {name: '雪的', folder: '0011', file: 'works/0011.html', cover: 'https://pic.imgdb.cn/item/5e39624b2fb38b8c3ca79ea4.jpg'}
+- {name: '有颜色的风景・五', folder: '0011', file: 'works/0011.html', cover: 'https://pic.imgdb.cn/item/5e39624b2fb38b8c3ca79ea4.jpg'}
 
 - {name: '牙克石的诗', folder: '0012', file: 'works/0012.html', cover: 'https://pic.imgdb.cn/item/5e53cba46127cc07137d94c4.jpg'}
 
-- {name: '有颜色的风景・五', folder: '0013', file: 'works/0013.html', cover: 'https://pic.imgdb.cn/item/5e5e720798271cb2b861b6cc.jpg'}
+- {name: '有颜色的风景・六', folder: '0013', file: 'works/0013.html', cover: 'https://pic.imgdb.cn/item/5e5e720798271cb2b861b6cc.jpg'}
 
 - {name: '郊区（这个城市以前叫凉州）', folder: '0014', file: 'works/0014.html', cover: 'https://pic.imgdb.cn/item/5e69bcf8e83c3a1e3aeb811f.jpg'}
 
-- {name: '有颜色的风景・六', folder: '0015', file: 'works/0015.html', cover: 'https://pic.imgdb.cn/item/5e6f3c15e83c3a1e3a718bfd.jpg'}
+- {name: '有颜色的风景・七', folder: '0015', file: 'works/0015.html', cover: 'https://pic.imgdb.cn/item/5e6f3c15e83c3a1e3a718bfd.jpg'}
 
 - {name: '合作・一 ~ 二', folder: '0016', file: 'works/0016.html', cover: 'https://pic.imgdb.cn/item/5e880558504f4bcb046c4262.jpg'}
 
-- {name: '有颜色的风景・七', folder: '0017', file: 'works/0017.html', cover: 'https://pic.imgdb.cn/item/5e74ae5dc8156f1e6fe96243.jpg'}
+- {name: '有颜色的风景・八', folder: '0017', file: 'works/0017.html', cover: 'https://pic.imgdb.cn/item/5e74ae5dc8156f1e6fe96243.jpg'}
 
 - {name: '合作・三 ~ 四', folder: '0018', file: 'works/0018.html', cover: 'https://pic.imgdb.cn/item/5e8805ad504f4bcb046c8999.jpg'}
 
-- {name: '有颜色的风景・八', folder: '0019', file: 'works/0019.html', cover: 'https://pic.imgdb.cn/item/5e81e8ef504f4bcb044aba55.jpg'}
+- {name: '有颜色的风景・九', folder: '0019', file: 'works/0019.html', cover: 'https://pic.imgdb.cn/item/5e81e8ef504f4bcb044aba55.jpg'}
 
-- {name: '有颜色的风景・九', folder: '0021', file: 'works/0021.html', cover: 'https://pic.imgdb.cn/item/5e880c05504f4bcb047165d6.jpg'}
+- {name: '合作・五 ~ 六', folder: '0020', file: 'works/0020.html', cover: 'https://pic.imgdb.cn/item/5e955aa1c2a9a83be59de0f0.jpg'}
 
-- {name: '有颜色的风景・十', folder: '0023', file: 'works/0023.html', cover: 'https://pic.imgdb.cn/item/5e8b55dd504f4bcb0466d56a.jpg'}
+- {name: '有颜色的风景・十', folder: '0021', file: 'works/0021.html', cover: 'https://pic.imgdb.cn/item/5e880c05504f4bcb047165d6.jpg'}
+
+- {name: '有颜色的风景・十一', folder: '0023', file: 'works/0023.html', cover: 'https://pic.imgdb.cn/item/5e8b55dd504f4bcb0466d56a.jpg'}
 
 
 
