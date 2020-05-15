@@ -3,6 +3,25 @@ layout: default
 title: Home
 ---
 
-{% include thumbnails.html %}
-
-{% include footer.html %}
+<section>
+  <div class="blog-container">
+  
+    {% for item in site.data.settings.menu %}
+		<div class="blog-unit">
+			<h1><a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a></h1>
+		</div>
+    {% endfor %}
+	
+	    <br/>
+	    <br/>
+	    <br/>
+	
+    {% for post in site.posts %}
+      <div class="blog-unit">
+	    <br/>
+        <h1><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h1>
+        <br/>
+      </div>
+    {% endfor %}
+  </div>
+</section>
