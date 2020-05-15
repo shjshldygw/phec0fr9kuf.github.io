@@ -3,39 +3,6 @@ layout: default
 title: Home
 ---
 
-<section>
-  <div class="blog-container">
-  
-    {% for item in site.data.settings.menu %}
-		<div class="blog-unit">
-			<h1><a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a></h1>
-		</div>
-    {% endfor %}
-	
-	    <br/>
-	    <br/>
-	    <br/>
-	
-
-  
-    {% for project in site.data.settings.projects %}
-	
-	<br>
-	
-      <a href="{{ site.github.url }}/{{ project.file }}">
-        <div class="thumb-unit" data-folder="{{ site.github.url }}/cx/{{ project.folder }}" style="background-image: url({{ project.cover }})">
-          <div class="thumb-overlay">
-            <strong>{{ project.name }} </strong>
-          </div>
-        </div>
-      </a>
-	  
-	<br>
-    {% endfor %}
-  
-  </div>
-</section>
-
-
+{% include thumbnails.html %}
 
 {% include footer.html %}
