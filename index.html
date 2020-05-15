@@ -16,12 +16,10 @@ title: Home
 	    <br/>
 	    <br/>
 	
-    {% for post in site.posts %}
-      <div class="blog-unit">
-	    <br/>
-        <h1><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h1>
-        <br/>
-      </div>
-    {% endfor %}
+
   </div>
 </section>
+
+{% include thumbnails.html %}
+
+{% include footer.html %}
