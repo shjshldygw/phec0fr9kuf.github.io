@@ -59,7 +59,7 @@ contact: >
 #-------------------------------
 # Work Section
 
-projects:
+# projects:
 
 
 
@@ -70,7 +70,7 @@ projects:
 #-------------------------------
 # Contact Section
 
-social:
+# social:
 #- {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
