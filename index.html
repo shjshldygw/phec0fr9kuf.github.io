@@ -1,11 +1,43 @@
 ---
-layout: default_with_header
+layout: default
 title: Home
 ---
 
+<section>
+  <div class="blog-container">
+  
+    {% for item in site.data.settings.menu %}
+		<div class="blog-unit">
+			<h1><a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a></h1>
+		</div>
+    {% endfor %}
+	
+	    <br/>
+	    <br/>
+	    <br/>
+	
+    <div class="blog-unit">
+	    <br/>
+        <h1><a href="{{ site.github.url }}/works/0001.html">顏色奇怪的風景</a></h1>
+        <br/>
+      </div>
 
+      <div class="blog-unit">
+	    <br/>
+        <h1><a href="{{ site.github.url }}/0002.html">有顏色的風景 vol.1</a></h1>
+        <br/>
+      </div>
 
+      <div class="blog-unit">
+	    <br/>
+        <h1><a href="{{ site.github.url }}/0003.html">各種各樣的綠色 (on going)</a></h1>
+        <br/>
+      </div>
 
-{% include thumbnails.html %}
-
-{% include footer.html %}
+      <div class="blog-unit">
+	    <br/>
+        <h1><a href="{{ site.github.url }}/works/0010.html">自選集</a></h1>
+        <br/>
+      </div>
+  </div>
+</section>
