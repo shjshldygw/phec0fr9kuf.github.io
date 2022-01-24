@@ -4,7 +4,7 @@
 menu:
 # - {name: 'works', url: ''}
 # - {name: 'works', url: 'pages/works.html'}
-# - {name: 'about', url: 'pages/about.html'}
+- {name: 'about', url: 'pages/about.html'}
 - {name: 'contact', url: 'pages/contact.html'}
 
 #-------------------------------
