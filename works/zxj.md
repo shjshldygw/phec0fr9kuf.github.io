@@ -587,4 +587,3 @@ title: ''
 </p>
 
 
-#### [text](/works/0010a.html)
