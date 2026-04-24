@@ -11,7 +11,7 @@ title: ''
 
 <div class="image-container">
   <a href="https://pic1.imgdb.cn/item/69eb525cf7ed0bdaa32626b4.jpg"  data-fancybox="images">
-    <img src="https://pic1.imgdb.cn/item/69eb5277f7ed0bdaa32626e5.jpg" alt="Avatar" class="image" />
+    <img src="https://pic1.imgdb.cn/item/69eb526ef7ed0bdaa32626d5.jpg" alt="Avatar" class="image" />
     <div class="overlay">
       <div class="text">
         
