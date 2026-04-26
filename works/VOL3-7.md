@@ -30,7 +30,6 @@ title: ''
 
 
 <a href="https://pic1.imgdb.cn/item/69ed6efb1e5a749701142bae.jpg" data-fancybox="images"><img src="" /></a>
-<a href="https://pic1.imgdb.cn/item/69ed6efb1e5a749701142baf.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6f001e5a749701142bb1.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6eff1e5a749701142bb0.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6f041e5a749701142bb6.jpg" data-fancybox="images"><img src="" /></a>
