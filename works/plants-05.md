@@ -110,5 +110,3 @@ title: ''
 
 </p>
 
-
-#### [text](/works/0012a.html)
