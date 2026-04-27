@@ -48,7 +48,6 @@ title: ''
 <a href="https://pic1.imgdb.cn/item/69ed5a9b1e5a7497011422e1.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed5a9f1e5a7497011422e2.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed5aa01e5a7497011422e3.jpg" data-fancybox="images"><img src="" /></a>
-<a href="https://pic1.imgdb.cn/item/69ed5aa01e5a7497011422e4.jpg" data-fancybox="images"><img src="" /></a>
 
 
 </p>
