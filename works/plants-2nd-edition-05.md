@@ -29,7 +29,6 @@ title: ''
 
 
 <a href="https://pic1.imgdb.cn/item/69ed6e611e5a749701142ada.jpg" data-fancybox="images"><img src="" /></a>
-<a href="https://pic1.imgdb.cn/item/69ed6e5f1e5a749701142ad9.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6e621e5a749701142adb.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6e671e5a749701142ae2.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6e681e5a749701142ae3.jpg" data-fancybox="images"><img src="" /></a>
