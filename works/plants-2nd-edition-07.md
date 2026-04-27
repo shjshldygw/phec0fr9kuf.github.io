@@ -41,9 +41,8 @@ title: ''
 <a href="https://pic1.imgdb.cn/item/69ed6f141e5a749701142bdc.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6f191e5a749701142be1.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6f191e5a749701142be0.jpg" data-fancybox="images"><img src="" /></a>
-<a href="https://pic1.imgdb.cn/item/69ed6f1b1e5a749701142be4.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed6f1b1e5a749701142be5.jpg" data-fancybox="images"><img src="" /></a>
-<a href="https://pic1.imgdb.cn/item/69ed6f1b1e5a749701142be6.jpg" data-fancybox="images"><img src="" /></a>
+
 
 
 </p>
