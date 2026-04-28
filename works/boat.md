@@ -43,7 +43,6 @@ title: ''
 <a href="https://pic1.imgdb.cn/item/69ed72a41e5a74970114304e.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed72a41e5a74970114304d.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed72a61e5a749701143050.jpg" data-fancybox="images"><img src="" /></a>
-<a href="https://pic1.imgdb.cn/item/69ed72a41e5a74970114304b.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed72a61e5a749701143051.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed72a71e5a749701143053.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://pic1.imgdb.cn/item/69ed72a81e5a749701143054.jpg" data-fancybox="images"><img src="" /></a>
