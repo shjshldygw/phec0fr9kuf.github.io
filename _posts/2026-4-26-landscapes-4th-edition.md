@@ -21,8 +21,6 @@ title: ""
 
 #### [七](/works/landscapes-4th-edition-07.html)
 
-#### [text](/works/landscapes-4th-edition-08.html)
-
 
   
 &nbsp;
