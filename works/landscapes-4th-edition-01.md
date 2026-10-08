@@ -27,7 +27,6 @@ title: ''
 
 
 
-<a href="" data-fancybox="images"><img src="" /></a>
 <a href="https://songs.c-aixiao.com/photograph/002.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://songs.c-aixiao.com/photograph/003.jpg" data-fancybox="images"><img src="" /></a>
 <a href="https://songs.c-aixiao.com/photograph/004.jpg" data-fancybox="images"><img src="" /></a>
